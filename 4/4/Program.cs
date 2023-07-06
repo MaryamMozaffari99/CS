@@ -32,6 +32,17 @@ namespace _3
             bool falseBool = false;
             bool trueBool = true;
 
+            bool andBothTrue = trueBool && trueBool;
+            bool andBothFalse = falseBool && falseBool;
+            bool andOneTrue = trueBool && falseBool;
+            bool andOtherTrue = falseBool && trueBool;      
+
+            bool orBothTrue = trueBool || trueBool;
+            bool orBothFalse = falseBool || falseBool;
+            bool orOneTrue = trueBool || falseBool;
+            bool orOtherTrue = falseBool || trueBool;
+
+
             Console.WriteLine("Hello World!");
             Console.WriteLine(messageOne);
             Console.WriteLine(wholeNumber);
@@ -50,6 +61,14 @@ namespace _3
             Console.WriteLine(floatToInt);
             Console.WriteLine(module);
             Console.WriteLine(combian); 
+            Console.WriteLine(andBothTrue); 
+            Console.WriteLine(andBothFalse); 
+            Console.WriteLine(andOneTrue); 
+            Console.WriteLine(andOtherTrue); 
+            Console.WriteLine(orBothTrue); 
+            Console.WriteLine(orBothFalse); 
+            Console.WriteLine(orOneTrue); 
+            Console.WriteLine(orOtherTrue); 
 
         }
     }
