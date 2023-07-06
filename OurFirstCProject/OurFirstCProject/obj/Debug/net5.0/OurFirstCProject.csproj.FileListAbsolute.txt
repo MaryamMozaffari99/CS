@@ -1,0 +1,16 @@
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.exe
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.deps.json
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.runtimeconfig.json
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.runtimeconfig.dev.json
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.dll
+D:\C#\OurFirstCProject\OurFirstCProject\bin\Debug\net5.0\OurFirstCProject.pdb
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.csproj.AssemblyReference.cache
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.AssemblyInfoInputs.cache
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.AssemblyInfo.cs
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.csproj.CoreCompileInputs.cache
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.dll
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\refint\OurFirstCProject.dll
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.pdb
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\OurFirstCProject.genruntimeconfig.cache
+D:\C#\OurFirstCProject\OurFirstCProject\obj\Debug\net5.0\ref\OurFirstCProject.dll

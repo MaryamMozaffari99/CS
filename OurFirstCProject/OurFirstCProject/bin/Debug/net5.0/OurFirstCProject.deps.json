@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OurFirstCProject/1.0.0": {
+        "runtime": {
+          "OurFirstCProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OurFirstCProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

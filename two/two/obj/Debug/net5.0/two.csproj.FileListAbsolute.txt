@@ -1,0 +1,16 @@
+D:\C#\two\two\bin\Debug\net5.0\two.exe
+D:\C#\two\two\bin\Debug\net5.0\two.deps.json
+D:\C#\two\two\bin\Debug\net5.0\two.runtimeconfig.json
+D:\C#\two\two\bin\Debug\net5.0\two.runtimeconfig.dev.json
+D:\C#\two\two\bin\Debug\net5.0\two.dll
+D:\C#\two\two\bin\Debug\net5.0\two.pdb
+D:\C#\two\two\obj\Debug\net5.0\two.csproj.AssemblyReference.cache
+D:\C#\two\two\obj\Debug\net5.0\two.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\two\two\obj\Debug\net5.0\two.AssemblyInfoInputs.cache
+D:\C#\two\two\obj\Debug\net5.0\two.AssemblyInfo.cs
+D:\C#\two\two\obj\Debug\net5.0\two.csproj.CoreCompileInputs.cache
+D:\C#\two\two\obj\Debug\net5.0\two.dll
+D:\C#\two\two\obj\Debug\net5.0\refint\two.dll
+D:\C#\two\two\obj\Debug\net5.0\two.pdb
+D:\C#\two\two\obj\Debug\net5.0\two.genruntimeconfig.cache
+D:\C#\two\two\obj\Debug\net5.0\ref\two.dll
