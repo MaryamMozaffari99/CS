@@ -11,11 +11,19 @@ namespace IfStatement
             bool isParentWithplayer = false;
 
             int timeOfTheDay = 17;
-
-            if(!(playerAge > 16) || isParentWithplayer && false) 
+            bool isHappy = false || true; 
+            if(!(true && isHappy)) 
             {
-                Console.WriteLine("You are allowed to play the game.");
-            }
+                if(false) 
+                {
+                    Console.WriteLine("You are allowed to play the game.");
+                    if (true)
+                    {
+
+                    }
+                }
+
+            } 
             else if(playerAge == 16 && timeOfTheDay > 21)
             {
                 Console.WriteLine("You are allowed to play for one hour!");
