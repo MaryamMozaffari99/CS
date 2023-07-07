@@ -1,0 +1,16 @@
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.exe
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.deps.json
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.runtimeconfig.json
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.runtimeconfig.dev.json
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.dll
+D:\C#\SwitchandEnums\SwitchandEnums\bin\Debug\net5.0\SwitchandEnums.pdb
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.csproj.AssemblyReference.cache
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.AssemblyInfoInputs.cache
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.AssemblyInfo.cs
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.csproj.CoreCompileInputs.cache
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.dll
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\refint\SwitchandEnums.dll
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.pdb
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\SwitchandEnums.genruntimeconfig.cache
+D:\C#\SwitchandEnums\SwitchandEnums\obj\Debug\net5.0\ref\SwitchandEnums.dll
