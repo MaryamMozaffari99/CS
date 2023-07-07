@@ -1,0 +1,16 @@
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.exe
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.deps.json
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.runtimeconfig.json
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.runtimeconfig.dev.json
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.dll
+D:\C#\IfStatement\IfStatement\bin\Debug\net5.0\IfStatement.pdb
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.csproj.AssemblyReference.cache
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.AssemblyInfoInputs.cache
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.AssemblyInfo.cs
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.csproj.CoreCompileInputs.cache
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.dll
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\refint\IfStatement.dll
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.pdb
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\IfStatement.genruntimeconfig.cache
+D:\C#\IfStatement\IfStatement\obj\Debug\net5.0\ref\IfStatement.dll

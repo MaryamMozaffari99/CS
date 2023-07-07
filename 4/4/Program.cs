@@ -22,6 +22,8 @@ namespace _3
 
             int module = wholeNumber % numberTwo;   
 
+            float complicateExpression =multiply - ((wholeNumber + numberTwo) / subtraction);
+
             float floatNumber = 3.57837937458974839578345847589f;
             double doubleNumber = 3.58798748798347589738957483975843;
 
@@ -35,14 +37,15 @@ namespace _3
             bool andBothTrue = trueBool && trueBool;
             bool andBothFalse = falseBool && falseBool;
             bool andOneTrue = trueBool && falseBool;
-            bool andOtherTrue = falseBool && trueBool;      
-
-            bool orBothTrue = trueBool || trueBool;
+            bool andOtherTrue = falseBool && trueBool;  
+            
+            bool orBothTrue = trueBool || trueBool; 
             bool orBothFalse = falseBool || falseBool;
             bool orOneTrue = trueBool || falseBool;
             bool orOtherTrue = falseBool || trueBool;
 
 
+             
             Console.WriteLine("Hello World!");
             Console.WriteLine(messageOne);
             Console.WriteLine(wholeNumber);
@@ -68,8 +71,8 @@ namespace _3
             Console.WriteLine(orBothTrue); 
             Console.WriteLine(orBothFalse); 
             Console.WriteLine(orOneTrue); 
-            Console.WriteLine(orOtherTrue); 
-
+            Console.WriteLine(orOtherTrue);    
+            Console.WriteLine(complicateExpression);    
         }
     }
 }
