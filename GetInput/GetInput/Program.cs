@@ -9,21 +9,17 @@ namespace GetInput
         {
             string[] names = { "Bob", "Alex", "Adam", "Kate", "Steve" };
             Console.WriteLine($"Please type in the name you are looking for: ");
-            string nameToLookFor = Console.ReadLine();
-            Console.WriteLine($"Looking for {nameToLookFor} ... ");
+            string indexAsString = Console.ReadLine();
+            int indexToLookFor = Convert.ToInt32( indexAsString );  
+            Console.WriteLine($"Looking for a name at index {indexAsString} ... ");
 
-            for (int i = 0; i < names.Length; i++)
+            if (indexToLookFor >= 0 && indexToLookFor < names.Length ) 
             {
-                if(names[i] == nameToLookFor)
-                {
-                    Console.WriteLine($"Found {nameToLookFor} at the index of {i}. ");
-                    break;
-                }
-
-                if (i == names.Length - 1)
-                {
-                    Console.WriteLine($"could not find the {nameToLookFor} ...");
-                }
+                Console.WriteLine($"Found name {names[indexToLookFor]} ...");
+            }
+            else
+            {
+                Console.WriteLine($"could not find ... ");
             }
         }
     }
