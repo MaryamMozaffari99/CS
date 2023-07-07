@@ -8,9 +8,15 @@ namespace ForeachLoop
         {
             string[] names = {"Bob", "Alex", "Adam", "Kate", "Steve"};
             int i = 0;
-            for (; i < names.Length;)
+            for (; ;)
             {
+                if(i < names.Length)
+                {
+                    break;
+                }
+
                 i ++;
+
             }
             //which is like whileLoop
 
