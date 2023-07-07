@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 
 namespace ForeachLoop
 {
@@ -10,12 +11,13 @@ namespace ForeachLoop
             int i = 0;
             for (; ;)
             {
-                if(i < names.Length)
+                if(!(i < names.Length))
                 {
                     break;
                 }
+                Console.WriteLine(names[i]);
 
-                i ++;
+                i++;
 
             }
             //which is like whileLoop
