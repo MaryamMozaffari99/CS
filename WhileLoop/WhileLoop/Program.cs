@@ -13,11 +13,7 @@ namespace WhileLoop
                 Console.WriteLine("You are {age} years old, stay in school");
                 age += 1;
             }
-            do
-            {
-
-            } while (true);
-
+         
 
             Console.WriteLine("Now you are allowed to find a real job, or go to the college"); 
         }
