@@ -42,7 +42,7 @@ namespace IfStatement
                 Console.WriteLine("You are allowed to play for 30 minutes!");
             }
             else
-                    {
+            {
                 Console.WriteLine("You are not allowed play the game.");
             }
         }
