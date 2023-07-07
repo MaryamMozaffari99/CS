@@ -1,0 +1,16 @@
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.exe
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.deps.json
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.runtimeconfig.json
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.runtimeconfig.dev.json
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.dll
+D:\C#\GetInput\GetInput\bin\Debug\net5.0\GetInput.pdb
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.csproj.AssemblyReference.cache
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.AssemblyInfoInputs.cache
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.AssemblyInfo.cs
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.csproj.CoreCompileInputs.cache
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.dll
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\refint\GetInput.dll
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.pdb
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\GetInput.genruntimeconfig.cache
+D:\C#\GetInput\GetInput\obj\Debug\net5.0\ref\GetInput.dll

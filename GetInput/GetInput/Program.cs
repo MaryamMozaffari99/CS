@@ -4,9 +4,15 @@ namespace GetInput
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            string[] names = { "Bob", "Alex", "Adam", "Kate", "Steve" };
+            Console.WriteLine($"Please type in the name you are looking for: ");
+            string nameToLookFor = Console.ReadLine();
+            Console.WriteLine($"Looking for {nameToLookFor} ... ");
+
+
         }
     }
 }
