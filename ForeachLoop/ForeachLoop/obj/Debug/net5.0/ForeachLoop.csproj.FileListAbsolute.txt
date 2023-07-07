@@ -1,0 +1,16 @@
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.exe
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.deps.json
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.runtimeconfig.json
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.runtimeconfig.dev.json
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.dll
+D:\C#\ForeachLoop\ForeachLoop\bin\Debug\net5.0\ForeachLoop.pdb
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.csproj.AssemblyReference.cache
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.AssemblyInfoInputs.cache
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.AssemblyInfo.cs
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.csproj.CoreCompileInputs.cache
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.dll
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\refint\ForeachLoop.dll
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.pdb
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ForeachLoop.genruntimeconfig.cache
+D:\C#\ForeachLoop\ForeachLoop\obj\Debug\net5.0\ref\ForeachLoop.dll
