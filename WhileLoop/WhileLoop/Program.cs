@@ -11,10 +11,14 @@ namespace WhileLoop
             while (age < 18)
             {
                 Console.WriteLine("You are {age} years old, stay in school");
-                // this is the same as age = age + 1;
                 age += 1;
-               // age = age + 1;  
             }
+            do
+            {
+
+            } while (true);
+
+
             Console.WriteLine("Now you are allowed to find a real job, or go to the college"); 
         }
     }
