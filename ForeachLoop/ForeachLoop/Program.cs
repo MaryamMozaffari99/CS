@@ -8,22 +8,12 @@ namespace ForeachLoop
         static void Main()
         {
             string[] names = {"Bob", "Alex", "Adam", "Kate", "Steve"};
-            int i = 0;
-            for (; ;)
+            
+            for (int i = 0; i < names.Length; i++)
             {
-                if (names[i] == "Adam")
-                {
-                    Console.WriteLine("Found Adam!");
-                    break;
-                }
-
-                i++;
-
+                Console.WriteLine(names[i]);
             }
-            //which is like whileLoop
-
             Console.WriteLine("================================================================");
-
             foreach (string name in names)
             {
                 Console.WriteLine(name);
