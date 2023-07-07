@@ -27,15 +27,15 @@ namespace SwitchandEnums
             switch (size)
             {
                 //case 10:
-                case "small":
+                case groupSize.small:
                     Console.WriteLine("Hey!We are going to the small facility");
                     break;
                 //case 30:
-                case "medium":
+                case groupSize.medium:
                     Console.WriteLine("Hey!We are going to the medium facility");
                     break;
                 //case 100:
-                case "big":
+                case groupSize.big:
                     Console.WriteLine("Hey!We are going to the big facility");
                     break;
                 default:
