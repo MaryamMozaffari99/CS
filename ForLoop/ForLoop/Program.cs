@@ -20,8 +20,7 @@ namespace ForLoop
                 Console.WriteLine($"You are {Age} years old, stay in school");
             }
 
-            Console.WriteLine("Now you are allowed to find a real job, or go to the " +
-                "college");
+            Console.WriteLine("Now you are allowed to find a real job, or go to the " + "college");
         }
     }
 }
