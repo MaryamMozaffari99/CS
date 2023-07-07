@@ -11,11 +11,11 @@ namespace ForeachLoop
             int i = 0;
             for (; ;)
             {
-                if(!(i < names.Length))
+                if (names[i] == "Adam")
                 {
+                    Console.WriteLine("Found Adam!");
                     break;
                 }
-                Console.WriteLine(names[i]);
 
                 i++;
 
