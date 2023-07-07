@@ -7,16 +7,12 @@ namespace ForeachLoop
         static void Main()
         {
             string[] names = {"Bob", "Alex", "Adam", "Kate", "Steve"};
-
-             for (int i = 0; i < names.Length; i++)
+            int i = 0;
+            for (; i < names.Length;)
             {
-                Console.WriteLine(names[i]);
-                if(i == names.Length - 1)
-                {
-
-                }
+                i ++;
             }
-
+            //which is like whileLoop
 
             Console.WriteLine("================================================================");
 
