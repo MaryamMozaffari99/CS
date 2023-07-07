@@ -8,10 +8,16 @@ namespace ForeachLoop
         {
             string[] names = {"Bob", "Alex", "Adam", "Kate", "Steve"};
 
-            for (int i = 0; i < names.Length; i++)
+             for (int i = 0; i < names.Length; i++)
             {
                 Console.WriteLine(names[i]);
+                if(i == names.Length - 1)
+                {
+
+                }
             }
+
+
             Console.WriteLine("================================================================");
 
             foreach (string name in names)
