@@ -11,17 +11,17 @@ namespace SwitchandEnums
             big
         }
 
+        enum playerRole
+        {
+            server,
+            localplayer,
+            client
+        }
+
         static void Main(string[] args)
         {
-
-
-            //int numberOfStudents = 10;
-
-            //string groupSize = "small";
-
-            //switch(numberOfStudents)
-
-            groupSize size = groupSize.small;   
+           
+            groupSize size = groupSize.big;   
 
 
             switch (size)
@@ -45,3 +45,6 @@ namespace SwitchandEnums
         }
     }
 }
+
+
+//isgoodforcalculator
