@@ -6,34 +6,17 @@ namespace IfStatement
     {
         static void Main(string[] args)
         {
-            //string nameOne = "Bob";      
-            //string nameTwo = "Adam";      
-            // array store names in one 
-            //string[] names = { "Bob", "Adam", "Kate", "Sally", "Ellen"};
-            //int[] ages = { 21, 32, 23, 45, 25, 27 };
-            //names[0] = "Ellen";
+        
+            int playerAge = 16;
+            bool isParentWithplayer = false;
 
-            /* if(names.Length > 0)
-             {
-                 Console.WriteLine(names[0]);
-                 Console.WriteLine(names.Length);
-                 Console.WriteLine(names[names.Length - 1]);
-                 Console.WriteLine(names[4]);
-             }*/
-            /*if(true)
-            {
-                Console.WriteLine(names[0]);
-                Console.WriteLine(names.Length);
-                Console.WriteLine(names[names.Length - 1]);
-                Console.WriteLine(names[4]);
-            }*/
-            int playerAge = 14;
+            int timeOfTheDay = 17;
 
-            if(playerAge > 16) 
+            if(!(playerAge > 16) || isParentWithplayer && false) 
             {
                 Console.WriteLine("You are allowed to play the game.");
             }
-            else if(playerAge == 16)
+            else if(playerAge == 16 && timeOfTheDay > 21)
             {
                 Console.WriteLine("You are allowed to play for one hour!");
             }
