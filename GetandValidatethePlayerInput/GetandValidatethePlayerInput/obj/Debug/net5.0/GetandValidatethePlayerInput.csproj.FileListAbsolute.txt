@@ -1,0 +1,16 @@
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.exe
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.deps.json
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.runtimeconfig.json
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.runtimeconfig.dev.json
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.dll
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\bin\Debug\net5.0\GetandValidatethePlayerInput.pdb
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.csproj.AssemblyReference.cache
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.AssemblyInfoInputs.cache
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.AssemblyInfo.cs
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.csproj.CoreCompileInputs.cache
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.dll
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\refint\GetandValidatethePlayerInput.dll
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.pdb
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\GetandValidatethePlayerInput.genruntimeconfig.cache
+D:\C#\GetandValidatethePlayerInput\GetandValidatethePlayerInput\obj\Debug\net5.0\ref\GetandValidatethePlayerInput.dll
