@@ -19,13 +19,15 @@ namespace BullsandCows
                     }
                     secretNumber += newDigit;
                 }
-
-                Console.WriteLine($"Debug: the secrete number is {secretNumber}");
+                //cheat
+                //Console.WriteLine($"Debug: the secrete number is {secretNumber}");
 
                 while (true)
                 { 
 
+
                 Console.WriteLine("Please type your guess (4 digits, no repetition)");
+                
                 string playerGuess = Console.ReadLine();
 
                 while (true)
