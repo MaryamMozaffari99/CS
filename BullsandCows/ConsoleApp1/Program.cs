@@ -6,6 +6,7 @@ namespace BullsandCows
     {
         static void Main()
         {
+            while(true){
             for (bool PlayerWantsToPlayAgain = true; PlayerWantsToPlayAgain;)
             {
                 string secretNumber = "";
@@ -24,11 +25,11 @@ namespace BullsandCows
 
                 while (true)
                 { 
-
-
-                Console.WriteLine("Please type your guess (4 digits, no repetition)");
+                    Console.WriteLine("Please type your guess (4 digits, no repetition)");
                 
-                string playerGuess = Console.ReadLine();
+                    string playerGuess = Console.ReadLine();
+
+
 
                 while (true)
                 {
@@ -121,6 +122,7 @@ namespace BullsandCows
 
             Console.WriteLine("Thanks for playing the game!");
 
+         }
         }
     }
 }
